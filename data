@@ -1,0 +1,21 @@
+Study
+1) WHat is GIT
+https://github.com/grayghostvisuals/practice-git
+
+2) Setup a repo in your pc
+3) Perform all git operations (pull, commit, push, clone, stash, switch branch, pull request, resolve conflicts)
+
+==
+Sharthak
+Dipali
+Krunal
+
+
+user.name=Jerry Mouse
+user.email=deepali@srs-infosystems.com
+branch.autosetuprebase=always
+color.ui=true
+color.status=auto
+color.branch=auto
+core.editor=gedit
+merge.tool=vimdiff
